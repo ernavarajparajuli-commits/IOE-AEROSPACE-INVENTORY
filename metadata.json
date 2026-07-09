@@ -1,0 +1,8 @@
+{
+  "name": "IOE Aerospace Inventory Manager",
+  "description": "Aerospace Department inventory management system for IOE Pulchowk Campus, featuring real-time syncing with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
